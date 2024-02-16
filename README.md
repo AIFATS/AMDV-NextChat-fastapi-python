@@ -18,11 +18,11 @@ AMDV NextChat is a chatting application powered by FastAPI, designed to seamless
 - **PyJWT**: PyJWT is a Python library which allows you to encode and decode JSON Web Tokens (JWT).
 - **uvicorn**: Uvicorn is a lightning-fast ASGI server implementation, using uvloop and httptools.
 
-## Usage
+## Usage:
 
 1. **Clone the repository:**
    ```bash
-git clone https://github.com/your-username/amdv-nextchat-fastapi.git
+   git clone https://github.com/your-username/amdv-nextchat-fastapi.git
    ```
 
 ## Install dependencies:
