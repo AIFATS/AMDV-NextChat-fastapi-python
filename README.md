@@ -31,24 +31,32 @@ AMDV NextChat is a chatting application powered by FastAPI, designed to seamless
 
 
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
+   ```
 
-5 **Run the server:**
+## server:
+
+3 **Run the server:**
 
    ```bash
-uvicorn main:app --host 0.0.0.0 --port 8000
+   uvicorn main:app --host 0.0.0.0 --port 8000
+   ```
 
-6 **Integrate with your Android app:**
+## Integrate
+4 **Integrate with your Android app:**
 - Update the base URL for API requests in your Kotlin code.
 - Use the provided API endpoints for user authentication and messaging in your app.
 
-7 **Contributing:**
+## Contributing
+5 **Contributing:**
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-8 **License:**
+## License
+6 **License:**
 This project is licensed under the MIT License.
 
-9 **Contact:**
+## Contact
+7 **Contact:**
 For any inquiries or support, please contact your-email@example.com.
 
 This README.md file provides a structured guide for users and contributors to understand and interact with your FastAPI backend for AMDV NextChat. Feel free to customize it further based on your project's specific details and requirements.
