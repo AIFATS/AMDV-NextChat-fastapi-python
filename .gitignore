@@ -6,7 +6,9 @@ __pycache__
 *.cpython-3*.pyc
 # C extensions
 *.so
-
+__pycache__
+user_login_check.cpython-312.pyc
+user_login_routes.cpython-312.pyc
 # Distribution / packaging
 .Python
 build/
