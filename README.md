@@ -24,6 +24,7 @@ AMDV NextChat is a chatting application powered by FastAPI, designed to seamless
 
    ```bash
    git clone https://github.com/your-username/amdv-nextchat-fastapi.git
+   ```
 
 ## Install dependencies:
 
